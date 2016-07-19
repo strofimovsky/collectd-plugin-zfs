@@ -6,5 +6,5 @@ Collection of collectd plugins to monitor ZFS
 ```
 <Plugin exec>
     Exec "nobody:nobody" "/opt/collectd/libexec/zpiostat.py" "tank3
-  
+</Plugin>
 ```
